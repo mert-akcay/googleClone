@@ -1,0 +1,64 @@
+.main-holder {
+    width: 90%;
+    height: 186px;
+    margin: 0 auto 0;
+}
+
+
+.searchbox-container {
+    width: 100%;
+    height: 78px;
+    margin: 0 auto 0;
+    background-color: #eeeeee;
+}
+
+.logo-holder {
+    width: 17.32%;
+    height: 100px;
+    margin: 0 auto 0;
+}
+
+.bottom-left {
+    width: 37%;
+    height: 73px;
+    margin: 3px 2px 0 0;
+    background-color: #7ee5da;
+    float: left;
+    text-align: center;
+}
+
+.bottom-middle {
+    width: 22%;
+    height: 73px;
+    margin: 3px 2px 0 0;
+    background-color:#70ccc2;
+    float: left;
+    font-size: 13px;
+    text-align: center;
+}
+
+.bottom-right {
+    width: 40.78%;
+    height: 73px;
+    margin-top: 3px;
+    margin-right: 0px;
+    background-color: #62b3aa;
+    float: left;
+    text-align: center;
+    
+}
+
+.search-box {
+    width: 14.5%;
+    height: 14px;
+    margin: 0 auto 0;
+
+}
+
+.search-buttons {
+    width: 100%;
+    height: 14px;
+    margin: 7.5px auto 0;
+    text-align: center;
+
+}
